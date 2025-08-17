@@ -7,12 +7,11 @@
 
 ### 🚀 About Me
 
-| Category | Details |
 | :--- | :--- |
 | **🔭 Exploring** | ![Statistics](https://img.shields.io/badge/-Statistics-2F6B8F?style=for-the-badge&logo=jupyter&logoColor=white) ![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-FF5722?style=for-the-badge&logo=opencv&logoColor=white) ![Computer Graphics](https://img.shields.io/badge/-Computer%20Graphics-4CAF50?style=for-the-badge&logo=opengl&logoColor=white) ![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-673AB7?style=for-the-badge&logo=c&logoColor=white) ![Quantitative Finance](https://img.shields.io/badge/-Quantitative%20Finance-009688?style=for-the-badge&logo=cplusplus&logoColor=white) |
 | **🌱 Learning** | ![Java](https://img.shields.io/badge/-Java-E34A49?style=for-the-badge&logo=java&logoColor=white) |
-| **👯 Collaborating** | Interesting Application Projects |
-| **🤔 Seeking help** | Deep Learning Algorithms |
+| **👯 Collaborating** | **Interesting Application Projects** |
+| **🤔 Seeking help** | **Deep Learning Algorithms** |
 | **📫 Contact** | [mb7764171@gmail.com](mailto:mb7764171@gmail.com) |
 | **😄 Hobbies** | ![Computer Games](https://img.shields.io/badge/-Games-FFC107?style=for-the-badge) ![Military Weapons](https://img.shields.io/badge/-Military%20Weapons-607D8B?style=for-the-badge) ![Soccer](https://img.shields.io/badge/-Soccer-795548?style=for-the-badge) ![Billiards](https://img.shields.io/badge/-Billiards-00BCD4?style=for-the-badge) ![Chess](https://img.shields.io/badge/-Chess-3F51B5?style=for-the-badge) ![Music](https://img.shields.io/badge/-Music-9C27B0?style=for-the-badge) |
 
