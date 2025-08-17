@@ -39,19 +39,7 @@
 | **Design & Media** | ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white) ![Bcut](https://img.shields.io/badge/-Bcut-FF9900?style=flat-square) |
 ---
 
-### ✨ Recent GitHub Activity
 
-- [你的最新动态会在这里显示]
-- [比如你 star 了哪个仓库，或者 push 了新的代码]
-<br>
-
-### ✍️ Latest Blog Posts or Articles
-
-- [Blog Post Title](Blog Post Link)
-- [Blog Post Title](Blog Post Link)
-<br>
-
----
 
 <div align="center">
   <p>Thanks for visiting! <br> It's great to connect with you in this digital world.</p>
