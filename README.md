@@ -27,14 +27,14 @@
 
 ### 🛠️ Technologies I Know
 
-<div align="center">
-  <p>Here you can place various tech stack badges to visually showcase your skills.</p>
-  <img src="https://skillicons.dev/icons?i=py,js,react,docker,aws,kubernetes" />
-  <p>You can find more badges at <a href="https://skillicons.dev/" target="_blank">Skill Icons</a> or <a href="https://shields.io/" target="_blank">Shields.io</a>.</p>
-</div>
-
-<br>
-
+| Domain          | Skills                                                                                                     |
+| --------------- | ---------------------------------------------------------------------------------------------------------- |
+| **Design** | ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)  |
+| **Backend** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white) |
+| **ML** | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) |
+| **IDE** |  ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Vim](https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=white) ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white) |
+| **OS** |  ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white) |
+| **Other** | ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white) |
 ---
 
 ### ✨ Recent GitHub Activity
