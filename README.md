@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on [interesting application projects].
 - 🤔 I’m looking for help with [].
 - 📫 How to reach me: mb7764171@gmail.com
-- 😄 My hobbies include: [computer games,military weapon,soccer,billiards,chess].
+- 😄 My hobbies include: [computer games,military weapon,soccer,billiards,chess,music].
 
 <br>
 
