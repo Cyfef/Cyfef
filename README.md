@@ -1,28 +1,26 @@
 <div align="center">
   <img src="你的图片链接或相对路径" width="60"/>
-  <h1>Hi there! I'm [你的名字] 👋</h1>
+  <h1>Hi there! I'm [Cyfef] 👋</h1>
 </div>
 
 ---
 
 ### 💻 About Me
 
-- 🔭 I’m currently exploring the field of [你的工作或学习领域].
-- 🌱 I’m currently learning [你正在学习的新技术或语言].
-- 👯 I’m looking to collaborate on [你感兴趣的项目类型，例如：open source projects, web applications, etc.].
-- 🤔 I’m looking for help with [你感兴趣的话题，例如：how to learn algorithms better, latest AI technologies, etc.].
-- 💬 Ask me about [你擅长或感兴趣的话题，例如：JavaScript, Python, Cloud Computing].
-- 📫 How to reach me: **你的邮箱**
-- 😄 My hobbies include: [例如：reading, hiking, playing games].
-- ⚡ Fun fact: [分享一个关于你自己的小秘密或有趣的事实].
+- 🔭 I’m currently exploring the field of [Statistics,Computer Vision,Cybersecurity,Quantitative Finance,Computer Graphics].
+- 🌱 I’m currently learning [java].
+- 👯 I’m looking to collaborate on [interesting application projects].
+- 🤔 I’m looking for help with [].
+- 📫 How to reach me: mb7764171@gmail.com
+- 😄 My hobbies include: [computer games,military weapon,soccer,billiards,chess].
 
 <br>
 
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Cyfef&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyfef&layout=compact&theme=dark" alt="Top Languages" />
 </div>
 
 <br>
