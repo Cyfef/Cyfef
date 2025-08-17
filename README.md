@@ -9,12 +9,11 @@
 
 | | |
 | :--- | :--- |
-| **🔭 Exploring** | ![Statistics](https://img.shields.io/badge/-Statistics-2F6B8F?style=flat&logo=jupyter&logoColor=white) ![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-FF5722?style=flat&logo=opencv&logoColor=white) ![Computer Graphics](https://img.shields.io/badge/-Computer%20Graphics-4CAF50?style=flat&logo=opengl&logoColor=white) ![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-673AB7?style=flat&logo=c&logoColor=white) ![Quantitative Finance](https://img.io/badge/-Quantitative%20Finance-009688?style=flat&logo=cplusplus&logoColor=white) |
+| **🔭 Exploring** | ![Statistics](https://img.shields.io/badge/-Statistics-2F6B8F?style=flat&logo=jupyter&logoColor=white) ![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-FF5722?style=flat&logo=opencv&logoColor=white) ![Computer Graphics](https://img.shields.io/badge/Computer%20Graphics-4CAF50?style=flat&logo=opengl&logoColor=white) ![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-673AB7?style=flat&logo=c&logoColor=white) ![Quantitative Finance](https://img.shields.io/badge/-Quantitative%20Finance-009688?style=flat&logo=cplusplus&logoColor=white) |
 | **🌱 Learning** | ![Java](https://img.shields.io/badge/-Java-E34A49?style=flat&logo=java&logoColor=white) |
 | **👯 Collaborating** | Interesting Application Projects |
-| **🤔 Seeking Help** | Deep Learning Algorithms |
 | **📫 Contact** | [mb7764171@gmail.com](mailto:mb7764171@gmail.com) |
-| **😄 Hobbies** | ![Computer Games](https://img.shields.io/badge/-Games-FFC107?style=flat) ![Military Weapons](https://img.shields.io/badge/-Military%20Weapons-607D8B?style=flat) ![Soccer](https://img.io/badge/-Soccer-795548?style=flat) ![Billiards](https://img.shields.io/badge/-Billiards-00BCD4?style=flat) ![Chess](https://img.shields.io/badge/-Chess-3F51B5?style=flat) ![Music](https://img.shields.io/badge/-Music-9C27B0?style=flat) |
+| **😄 Hobbies** | ![Computer Games](https://img.shields.io/badge/-Games-FFC107?style=flat) ![Military Weapons](https://img.shields.io/badge/-Military%20Weapons-607D8B?style=flat) ![Soccer](https://img.shields.io/badge/-Soccer-795548?style=flat) ![Billiards](https://img.shields.io/badge/-Billiards-00BCD4?style=flat) ![Chess](https://img.shields.io/badge/-Chess-3F51B5?style=flat) ![Music](https://img.shields.io/badge/-Music-9C27B0?style=flat) |
 <br>
 
 ### 📈 GitHub Stats
