@@ -1,58 +1,58 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gqUuQxXy0V0j1x4W/giphy.gif" width="60"/>
-  <h1>你好！我是 [你的名字] 👋</h1>
+  <img src="你的图片链接或相对路径" width="60"/>
+  <h1>Hi there! I'm [你的名字] 👋</h1>
 </div>
 
 ---
 
-### 💻 关于我
+### 💻 About Me
 
-- 🔭 我目前正在 [你的工作或学习领域] 领域探索。
-- 🌱 我正在学习 [你正在学习的新技术或语言]。
-- 👯 期待与你一起合作 [你感兴趣的项目类型，例如：开源项目、Web应用等]。
-- 🤔 我正在寻找 [你感兴趣的话题，例如：如何更好地学习算法，最新的AI技术等]。
-- 💬 欢迎与我讨论 [你擅长或感兴趣的话题，例如：JavaScript, Python, 云计算]。
-- 📫 如何联系我: **[你的邮箱]**
-- 😄 我的爱好: [例如：阅读, 徒步, 玩游戏]。
-- ⚡ 有趣的事实: [分享一个关于你自己的小秘密或有趣的事实]。
+- 🔭 I’m currently exploring the field of [你的工作或学习领域].
+- 🌱 I’m currently learning [你正在学习的新技术或语言].
+- 👯 I’m looking to collaborate on [你感兴趣的项目类型，例如：open source projects, web applications, etc.].
+- 🤔 I’m looking for help with [你感兴趣的话题，例如：how to learn algorithms better, latest AI technologies, etc.].
+- 💬 Ask me about [你擅长或感兴趣的话题，例如：JavaScript, Python, Cloud Computing].
+- 📫 How to reach me: **你的邮箱**
+- 😄 My hobbies include: [例如：reading, hiking, playing games].
+- ⚡ Fun fact: [分享一个关于你自己的小秘密或有趣的事实].
 
 <br>
 
-### 📈 GitHub 统计
+### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[你的用户名]&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[你的用户名]&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=dark" alt="Top Languages" />
 </div>
 
 <br>
 
-### 🛠️ 我擅长的技术
+### 🛠️ Technologies I Know
 
 <div align="center">
-  <p>这里你可以放置各种技术栈的徽章，来直观展示你的技能。</p>
+  <p>Here you can place various tech stack badges to visually showcase your skills.</p>
   <img src="https://skillicons.dev/icons?i=py,js,react,docker,aws,kubernetes" />
-  <p>你可以在 <a href="https://skillicons.dev/" target="_blank">Skill Icons</a> 或者 <a href="https://shields.io/" target="_blank">Shields.io</a> 找到更多徽章。</p>
+  <p>You can find more badges at <a href="https://skillicons.dev/" target="_blank">Skill Icons</a> or <a href="https://shields.io/" target="_blank">Shields.io</a>.</p>
 </div>
 
 <br>
 
 ---
 
-### ✨ 最近的 GitHub 活动
+### ✨ Recent GitHub Activity
 
 - [你的最新动态会在这里显示]
 - [比如你 star 了哪个仓库，或者 push 了新的代码]
 <br>
 
-### ✍️ 最近的博客或文章
+### ✍️ Latest Blog Posts or Articles
 
-- [博客文章标题](博客文章链接)
-- [博客文章标题](博客文章链接)
+- [Blog Post Title](Blog Post Link)
+- [Blog Post Title](Blog Post Link)
 <br>
 
 ---
 
 <div align="center">
-  <p>感谢你的访问！<br>很高兴能与你在这个数字世界相遇。</p>
+  <p>Thanks for visiting! <br> It's great to connect with you in this digital world.</p>
 </div>
