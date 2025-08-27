@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="./images/1" width="60"/>
-  <h1>Hi there! I'm $mathbb{Cyfef}$ 👋</h1>
+  <img src="./images/1.jpg" width="170"/>
+  <h1>Hi there! I'm 𝓒𝔂𝓯𝓮𝓯 👋</h1>
 </div>
 
 ---
