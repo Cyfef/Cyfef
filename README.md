@@ -9,7 +9,7 @@
 
 | | |
 | :--- | :--- |
-| **🔭 Exploring** | ![Statistics](https://img.shields.io/badge/-Statistics-2F6B8F?style=flat&logo=jupyter&logoColor=white) ![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-FF5722?style=flat&logo=opencv&logoColor=white) ![Computer Graphics](https://img.shields.io/badge/Computer%20Graphics-4CAF50?style=flat&logo=opengl&logoColor=white) ![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-673AB7?style=flat&logo=c&logoColor=white) ![Quantitative Finance](https://img.shields.io/badge/-Quantitative%20Finance-009688?style=flat&logo=cplusplus&logoColor=white) |
+| **🔭 Exploring** | ![Statistics](https://img.shields.io/badge/-Statistics-2F6B8F?style=flat&logo=jupyter&logoColor=white) ![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-FF5722?style=flat&logo=opencv&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FFC107?style=flat&logo=tensorflow&logoColor=white) ![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-673AB7?style=flat&logo=c&logoColor=white) ![Quantitative Finance](https://img.shields.io/badge/-Quantitative%20Finance-009688?style=flat&logo=cplusplus&logoColor=white) |
 | **🌱 Learning** | ![Java](https://img.shields.io/badge/-Java-E34A49?style=flat&logo=java&logoColor=white) |
 | **👯 Collaborating** | Interesting Application Projects |
 | **📫 Contact** | [mb7764171@gmail.com](mailto:mb7764171@gmail.com) |
